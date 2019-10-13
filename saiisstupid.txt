@@ -1,0 +1,7 @@
+int[] array moveLeft
+for int x is less than validMoves
+{
+	//place validMove(x) on fakeBoard	
+	add to array[x].set = check number of availableMoves(Enemy.getColor());
+
+}
